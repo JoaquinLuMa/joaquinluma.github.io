@@ -2,3 +2,6 @@ body {
   background-image: url("../images/repeating.png");
   float: left;
 }
+header{
+  background-image: url("../images/black.jpg");
+}
