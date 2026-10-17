@@ -13,3 +13,8 @@ h1{
   font-family: 'Devonshire', cursive;
   color: #E35335;
 }
+footer{
+  background-color: #777;
+  height: 80px;
+  clear: both;
+}
