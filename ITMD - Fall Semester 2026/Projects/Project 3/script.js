@@ -98,6 +98,10 @@ async function myMap() {
 
     chinatownTriangle.setMap(myMap);
     flightPath.setMap(myMap);
+
+    document.getElementById("entrybutton").addEventListener("click", function(){
+        alert("If you have questions, contact me at: jluengasmartinez@illinoistech.edu");
+    })
 }
 
 google.maps.event.addDomListener(window, "load", myMap);
